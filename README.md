@@ -1,2 +1,0 @@
-# Mohaimen
-CassandraProject
