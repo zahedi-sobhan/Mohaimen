@@ -14,6 +14,7 @@ public class Cassandra {
      *
      * @param code that is database column
      * @return
+     * @throws CustomException that if code is null throws
      */
 
     public List read (String code) throws CustomException {
