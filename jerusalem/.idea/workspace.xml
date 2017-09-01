@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b367437c-12b5-45fa-b278-9fe33ea70f0e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cassandra/Cassandra.java" afterPath="$PROJECT_DIR$/src/main/java/cassandra/Cassandra.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jerusalem.iws" />
@@ -44,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cassandra/Cassandra.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.33915213" vertical-offset="0" max-vertical-offset="867">
-              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -570,7 +569,7 @@
       <workItem from="1503683487081" duration="584000" />
       <workItem from="1503941926634" duration="157000" />
       <workItem from="1504000604872" duration="4032000" />
-      <workItem from="1504290029379" duration="5332000" />
+      <workItem from="1504290029379" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="Cassandra">
       <created>1504290116294</created>
@@ -596,11 +595,17 @@
       <option name="project" value="LOCAL" />
       <updated>1504299797162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cassandra Project">
+      <created>1504300058148</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1504300058148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11940000" />
+    <option name="totallyTimeSpent" value="11950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -791,7 +796,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cassandra/Cassandra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33915213" vertical-offset="0" max-vertical-offset="867">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
