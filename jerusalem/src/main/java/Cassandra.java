@@ -14,7 +14,6 @@ public class Cassandra {
      * @return
      */
 
-
     public List read (String code) {
         //SQL query
         String query = "SELECT * FROM emp Where id =" + code;
